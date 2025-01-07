@@ -1,6 +1,6 @@
-# lab2
+# lab3
 
-A new Flutter project.
+third lab for МИС.
 
 ## Getting Started
 
