@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676754459168",
+    "project_id": "timothyjj-lab-three",
+    "storage_bucket": "timothyjj-lab-three.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676754459168:android:f274e3e2c273e587e3ca45",
+        "android_client_info": {
+          "package_name": "com.example.lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0iCtMDVxTHnYY61glkpAkjiRHKd33NFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
