@@ -1,6 +1,6 @@
 # lab3
 
-third lab for МИС.
+third lab for МИС (modified second lab).
 
 ## Getting Started
 
